@@ -1,0 +1,3 @@
+[submodule "redguardtoo-emacs-master"]
+	path = redguardtoo-emacs-master
+	url = https://github.com/redguardtoo/emacs.d.git
