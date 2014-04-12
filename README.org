@@ -1,0 +1,10 @@
+
+
+* cpp primer
+
+** 安装多版本gcc
+   http://blog.sina.com.cn/s/blog_403aa80a0101bn03.html
+** 编译
+   make CC=/opt/
+
+* 
